@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm -DevByte</h1>
-<h3 align="center">Aspiring web developer passionate about building dynamic and user-friendly web applications. Currently exploring and enhancing skills in front-end and back-end</h3>
+<h1 align="center">Hi 👋, I'm Peter H. Olan-Olan</h1>
+<h3 align="center">Hi, I'm Peter, a Full-Stack Web Developer with professional experience in web development and system maintenance. I specialize in Laravel/PHP, JavaScript, React, HTML, CSS, and MySQL, with experience building, debugging, optimizing, and maintaining reliable web systems.
+
+I’m passionate about creating clean, scalable, and user-focused solutions while continuously improving my skills and adapting to new technologies.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
