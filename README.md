@@ -101,7 +101,7 @@ I primarily work with **Laravel/PHP, JavaScript, React, HTML, CSS, and MySQL**, 
 
 A web-based platform that allows residents to submit community and city service requests while providing administrators with tools to manage, organize, and process reports.
 
-**Tech:** Laravel · PHP · MySQL · JavaScript · HTML · CSS
+**Tech:** FrontEnd: NextJS · HTML · CSS | Backend: Laravel · PHP · MySQL · JavaScript
 
 ---
 
