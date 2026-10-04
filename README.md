@@ -30,80 +30,66 @@ I primarily work with **Laravel/PHP, JavaScript, React, HTML, CSS, and MySQL**, 
 
 ---
 
-## 🛠️ Tech Stack
-
-### Frontend
+<h2>🛠️ Tech Stack</h2>
 
 <p>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-    <img src="https://skillicons.dev/icons?i=html" height="45" alt="HTML">
-  </a>
-  <a href="https://www.w3.org/Style/CSS/">
-    <img src="https://skillicons.dev/icons?i=css" height="45" alt="CSS">
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-    <img src="https://skillicons.dev/icons?i=js" height="45" alt="JavaScript">
-  </a>
-  <a href="https://react.dev/">
-    <img src="https://skillicons.dev/icons?i=react" height="45" alt="React">
-  </a>
-  <a href="https://www.typescriptlang.org/">
-    <img src="https://skillicons.dev/icons?i=ts" height="45" alt="TypeScript">
-  </a>
-  <a href="https://tailwindcss.com/">
-    <img src="https://skillicons.dev/icons?i=tailwind" height="45" alt="Tailwind CSS">
-  </a>
-  <a href="https://getbootstrap.com/">
-    <img src="https://skillicons.dev/icons?i=bootstrap" height="45" alt="Bootstrap">
-  </a>
+  The tools, frameworks, platforms, and AI-powered development tools I use to build,
+  debug, design, and ship applications.
 </p>
 
-### Backend
+<h3>Frontend</h3>
 
 <p>
-  <a href="https://www.php.net/">
-    <img src="https://skillicons.dev/icons?i=php" height="45" alt="PHP">
-  </a>
-  <a href="https://laravel.com/">
-    <img src="https://skillicons.dev/icons?i=laravel" height="45" alt="Laravel">
-  </a>
-  <a href="https://www.java.com/">
-    <img src="https://skillicons.dev/icons?i=java" height="45" alt="Java">
-  </a>
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML5">
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS3">
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="Tailwind CSS">
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript">
+  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="TypeScript">
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="React">
+  <img src="https://skillicons.dev/icons?i=vite" height="40" alt="Vite">
+  <img src="https://skillicons.dev/icons?i=wordpress" height="40" alt="WordPress">
+  <img src="https://skillicons.dev/icons?i=woocommerce" height="40" alt="WooCommerce">
 </p>
 
-### Databases
+<h3>Backend & Databases</h3>
 
 <p>
-  <a href="https://www.mysql.com/">
-    <img src="https://skillicons.dev/icons?i=mysql" height="45" alt="MySQL">
-  </a>
-  <a href="https://www.postgresql.org/">
-    <img src="https://skillicons.dev/icons?i=postgresql" height="45" alt="PostgreSQL">
-  </a>
-  <a href="https://www.mongodb.com/">
-    <img src="https://skillicons.dev/icons?i=mongodb" height="45" alt="MongoDB">
-  </a>
-  <a href="https://www.sqlite.org/">
-    <img src="https://skillicons.dev/icons?i=sqlite" height="45" alt="SQLite">
-  </a>
+  <img src="https://skillicons.dev/icons?i=php" height="40" alt="PHP">
+  <img src="https://skillicons.dev/icons?i=laravel" height="40" alt="Laravel">
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="Node.js">
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="Java">
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="MySQL">
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="MongoDB">
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="PostgreSQL">
+  <img src="https://skillicons.dev/icons?i=sqlite" height="40" alt="SQLite">
+  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="Firebase">
 </p>
 
-### Tools & Platforms
+<h3>DevOps, Tools & IDE</h3>
 
 <p>
-  <a href="https://git-scm.com/">
-    <img src="https://skillicons.dev/icons?i=git" height="45" alt="Git">
-  </a>
-  <a href="https://github.com/">
-    <img src="https://skillicons.dev/icons?i=github" height="45" alt="GitHub">
-  </a>
-  <a href="https://www.postman.com/">
-    <img src="https://skillicons.dev/icons?i=postman" height="45" alt="Postman">
-  </a>
-  <a href="https://www.figma.com/">
-    <img src="https://skillicons.dev/icons?i=figma" height="45" alt="Figma">
-  </a>
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git">
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub">
+  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="Postman">
+  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="Figma">
+  <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="Vercel">
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="VS Code">
+  <img src="https://skillicons.dev/icons?i=composer" height="40" alt="Composer">
+</p>
+
+<p>
+  <strong>Scene Builder</strong>
+</p>
+
+<h3>🤖 AI Stack</h3>
+
+<p>
+  <strong>Cursor</strong> &nbsp;
+  <strong>Antigravity</strong> &nbsp;
+  <strong>Claude Code</strong> &nbsp;
+  <strong>OpenCodeX</strong> &nbsp;
+  <strong>ChatGPT</strong> &nbsp;
+  <strong>Devin AI</strong>
 </p>
 
 ---
