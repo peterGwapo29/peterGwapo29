@@ -19,7 +19,7 @@
 
 I'm a **Full-Stack Web Developer** with professional experience in web development, system maintenance, debugging, and optimization.
 
-I primarily work with **Laravel/PHP, JavaScript, React, HTML, CSS, and MySQL**, and I enjoy building practical solutions for real-world problems.
+I primarily work with **Laravel/PHP, JavaScript/TypeScript, React, Next.JS and MySQL/Firebase/Supabase**, and I enjoy building practical solutions for real-world problems.
 
 - 🔭 Currently working on full-stack web applications and business systems
 - 💻 Experienced in frontend and backend development
