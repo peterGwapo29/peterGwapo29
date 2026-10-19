@@ -107,12 +107,12 @@ A web-based platform that allows residents to submit community and city service 
 
 ---
 
-### 🐟 The Betta Shop
-**E-Commerce & Customer Support Platform**
+### Golden Resort Booking System
+**Resort Booking & Management System**
 
-An e-commerce system with customer ordering, administrative management, support tickets, refund workflows, and operational tools.
+A full-stack resort management platform featuring accommodation reservations, room availability, guest management, booking administration, and housekeeping operations.
 
-**Tech:** PHP · MySQL · JavaScript · HTML · CSS
+**Tech:** Next.js · TypeScript · Tailwind CSS · Laravel · MySQL
 
 ---
 
