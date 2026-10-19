@@ -46,6 +46,7 @@ I primarily work with **Laravel/PHP, JavaScript, React, HTML, CSS, and MySQL**, 
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript">
   <img src="https://skillicons.dev/icons?i=ts" height="40" alt="TypeScript">
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="React">
+  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="Next.js">
   <img src="https://skillicons.dev/icons?i=vite" height="40" alt="Vite">
   <img src="https://skillicons.dev/icons?i=wordpress" height="40" alt="WordPress">
   <img src="https://skillicons.dev/icons?i=woocommerce" height="40" alt="WooCommerce">
