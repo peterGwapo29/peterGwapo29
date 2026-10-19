@@ -64,6 +64,7 @@ I primarily work with **Laravel/PHP, JavaScript, React, HTML, CSS, and MySQL**, 
   <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="PostgreSQL">
   <img src="https://skillicons.dev/icons?i=sqlite" height="40" alt="SQLite">
   <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="Firebase">
+  <img src="https://skillicons.dev/icons?i=supabase" height="40" alt="Supabase">
 </p>
 
 <h3>DevOps, Tools & IDE</h3>
